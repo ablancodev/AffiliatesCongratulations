@@ -1,2 +1,2 @@
 # AffiliatesCongratulations
-Send an email to the affiliate when they get X referrals.
+Send an email to the affiliates when they get X referrals.
